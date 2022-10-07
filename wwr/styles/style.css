@@ -14,8 +14,8 @@ nav a:hover {
 }
 
 .book, .join{
-    background-color: burlywood;
-    color: deeppink;
+    background-color: rgb(184, 222, 135);
+    color: #ffb114;
     text-decoration: none;
 }
 
@@ -52,20 +52,20 @@ h4{
 }
 
 .msg h2{
-    color: aquamarine;
+    color: rgb(52, 92, 18);
 }
 
 .msg p{
-    color: lavender;
+    color: rgb(194, 147, 48);
 }
 
 footer a{
-    color: magenta;
+    color: #bbff00;
     text-decoration: none;
 }
 
 footer a:hover{
-    color: orchid;
+    color: rgb(232, 117, 10);
 }
 
 #hero-msg h1{
