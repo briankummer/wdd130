@@ -29,12 +29,12 @@ nav a:hover {
 }
 
 .msg{
-    background-color: cyan;
+    background-color: rgb(162, 68, 69);
 }
 
 footer{
-    background-color: darkcyan;
-    color: blue;
+    background-color: rgb(36, 70, 22);
+    color: rgb(163, 61, 20);
 }
 
 nav a{
