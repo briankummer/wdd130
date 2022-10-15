@@ -14,8 +14,8 @@ nav a:hover {
 }
 
 .book, .join{
-    background-color: burlywood;
-    color: deeppink;
+    background-color: rgb(179, 222, 135);
+    color: rgba(255, 251, 20, 0.664);
     text-decoration: none;
 }
 
