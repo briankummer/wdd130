@@ -1,24 +1,24 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #4c6271   ;
-  --secondary-color: #8c3994 ;
-  --accent1-color: #e84631;
-  --accent2-color: white;
+  --primary-color: #396E94   ;
+  --secondary-color: #E7C24F ;
+  --accent1-color: #A43312;
+  --accent2-color: #1B0E14;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Roboto";
-  --paragraph-font: "Rock+salt", Helvetica, sans-serif;
+  --paragraph-font: "Rock+Salt", Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #4c6271;  /* headlines on a white background */ 
+  --headline-color-on-white: #396E94;  /* headlines on a white background */ 
   --headline-color-on-color: white; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #e84631; /* paragraph text on a colored background */ 
+  --paragraph-color-on-white: #E7C24F; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #1B0E14; /* paragraph text on a colored background */ 
   --paragraph-background-color: #396E94  ;
   --nav-link-color: #8c3994;
   --nav-background-color: #4c6271;
